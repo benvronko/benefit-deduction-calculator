@@ -1,6 +1,6 @@
 # BenefitDeductionCalculator
 
-Welcome to the benefit deduction calculator! Thank you for taking a look.
+Welcome to the Benefit Deduction Calculator! Thank you for taking a look.
 
 ## Development server
 
